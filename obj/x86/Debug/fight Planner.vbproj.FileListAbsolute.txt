@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2010\Projects\fight Planner\fight Planner\bin\Debug\fight Planner.exe
+c:\users\hp\documents\visual studio 2010\Projects\fight Planner\fight Planner\bin\Debug\fight Planner.pdb
+c:\users\hp\documents\visual studio 2010\Projects\fight Planner\fight Planner\bin\Debug\fight Planner.xml
+c:\users\hp\documents\visual studio 2010\Projects\fight Planner\fight Planner\obj\x86\Debug\fight_Planner.frmFlight.resources
+c:\users\hp\documents\visual studio 2010\Projects\fight Planner\fight Planner\obj\x86\Debug\fight_Planner.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\fight Planner\fight Planner\obj\x86\Debug\fight Planner.vbproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\fight Planner\fight Planner\obj\x86\Debug\fight Planner.exe
+c:\users\hp\documents\visual studio 2010\Projects\fight Planner\fight Planner\obj\x86\Debug\fight Planner.xml
+c:\users\hp\documents\visual studio 2010\Projects\fight Planner\fight Planner\obj\x86\Debug\fight Planner.pdb
